@@ -22,7 +22,7 @@ The ML models (LDA, Topic modelling ,etc) then extracts important tweets which b
 1. Kartikey Singh
 2. Raghav Maheshwari
 3. Adit Chanchal
-4. Ayush Songra( Me :P )
+4. Ayush Songra ( Me :P )
 
 
 #### PS: Developed this end-to-end application in 24 hrs of "HCL AI Hackathon" and secured 3rd postion.
